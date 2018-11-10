@@ -1,6 +1,4 @@
 #include "manette.h"
-#include "id.h"
-#include "drone.h"
 
 Manette maManette;
 
