@@ -2,13 +2,13 @@ les donnees de la manette sont envoyees en 5 int
 
 le premier contient toutes les donnees des boutons:
 
-LSB	R1
-LSB-1	R2
-LSB-2	L1
-LSB-3	L2
-LSB-4	Joystick Droit
-LSB-5	Joystick Gauche
-LSB-6	Channel
+6	R1
+5	R2
+4	L1
+3	L2
+2	Joystick Droit
+1	Joystick Gauche
+0	Channel
 
 les 4 prochaines valeurs correspondent aux niveau des joysticks, dans l'ordre
 
