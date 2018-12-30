@@ -1,0 +1,22 @@
+Added Component: Designator=HC05(HC05)
+Added Component: Designator=JD(Joystick2axes)
+Added Component: Designator=JG(Joystick2axes)
+Added Pin To Net: NetName=RX Pin=HC05-2
+Added Pin To Net: NetName=RX Pin=HC05-2
+Added Pin To Net: NetName=TX Pin=HC05-3
+Added Pin To Net: NetName=5V Pin=HC05-5
+Added Pin To Net: NetName=5V Pin=JD-1
+Added Pin To Net: NetName=5V Pin=JD-1
+Added Pin To Net: NetName=JDX Pin=JD-2
+Added Pin To Net: NetName=JDY Pin=JD-3
+Added Pin To Net: NetName=GND Pin=JD-4
+Added Pin To Net: NetName=GND Pin=JD-4
+Added Pin To Net: NetName=5V Pin=JG-1
+Added Pin To Net: NetName=5V Pin=JG-1
+Added Pin To Net: NetName=JGX Pin=JG-2
+Added Pin To Net: NetName=JGY Pin=JG-3
+Added Pin To Net: NetName=GND Pin=JG-4
+Added Pin To Net: NetName=GND Pin=JG-4
+Added Member To Class: ClassName=manette_temp Member=Component HC05
+Added Member To Class: ClassName=manette_temp Member=Component JD Joystick2axes
+Added Member To Class: ClassName=manette_temp Member=Component JG Joystick2axes

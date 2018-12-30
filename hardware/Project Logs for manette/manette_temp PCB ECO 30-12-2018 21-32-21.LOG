@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=BATTERIE Pin=SW1-1
+Removed Pin From Net: NetName=VCC Pin=SW1-2
+Change Component DesignItemId : Designator=SC Old DesignItemId=SW-PB New DesignItemId=Header 2
+Change Component DesignItemId : Designator=SL1 Old DesignItemId=SW-PB New DesignItemId=Header 2
+Change Component DesignItemId : Designator=SL2 Old DesignItemId=SW-PB New DesignItemId=Header 2
+Change Component DesignItemId : Designator=SR1 Old DesignItemId=SW-PB New DesignItemId=Header 2
+Change Component DesignItemId : Designator=SR2 Old DesignItemId=SW-PB New DesignItemId=Header 2
+Change Component Footprint: Designator=SC Old Footprint=SPST-2 New Footprint=HDR1X2
+Change Component Footprint: Designator=SL1 Old Footprint=SPST-2 New Footprint=HDR1X2
+Change Component Footprint: Designator=SL2 Old Footprint=SPST-2 New Footprint=HDR1X2
+Change Component Footprint: Designator=SR1 Old Footprint=SPST-2 New Footprint=HDR1X2
+Change Component Footprint: Designator=SR2 Old Footprint=SPST-2 New Footprint=HDR1X2
+Change Component Comment : Designator=SC Old Comment=SW-PB New Comment=Header 2
+Change Component Comment : Designator=SL1 Old Comment=SW-PB New Comment=Header 2
+Change Component Comment : Designator=SL2 Old Comment=SW-PB New Comment=Header 2
+Change Component Comment : Designator=SR1 Old Comment=SW-PB New Comment=Header 2
+Change Component Comment : Designator=SR2 Old Comment=SW-PB New Comment=Header 2
+Added Component: Designator=SW?(1K2_V)
+Added Pin To Net: NetName=D11 Pin=SW1-1
+Added Pin To Net: NetName=RX Pin=SW1-2
+Added Pin To Net: NetName=BATTERIE Pin=SW1-1
+Added Pin To Net: NetName=VCC Pin=SW1-2
+Added Member To Class: ClassName=manette_temp Member=Component SW? SW_SPDT
+Added Room: Name=manette_temp

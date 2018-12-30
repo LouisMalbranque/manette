@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=SL2 Pin=R4-1
+Removed Pin From Net: NetName=GND Pin=R4-2
+Removed Pin From Net: NetName=NetLDL1_K Pin=R8-1
+Removed Pin From Net: NetName=GND Pin=R8-2
+Removed Pin From Net: NetName=BATTERIE Pin=SW1-1
+Removed Pin From Net: NetName=VCC Pin=SW1-2
+Added Component: Designator=SW?(1K2_V)
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=SL2 Pin=R4-2
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=NetLDL1_K Pin=R8-2
+Added Pin To Net: NetName=D11 Pin=SW1-1
+Added Pin To Net: NetName=RX Pin=SW1-2
+Added Pin To Net: NetName=BATTERIE Pin=SW1-1
+Added Pin To Net: NetName=VCC Pin=SW1-2
+Added Member To Class: ClassName=manette_temp Member=Component SW? SW_SPDT
+Added Room: Name=manette_temp

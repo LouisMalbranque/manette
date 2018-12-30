@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=D10 Pin=S?-1
+Removed Pin From Net: NetName=CSN Pin=S?-2
+Removed Pin From Net: NetName=TX Pin=S?-3
+Removed Pin From Net: NetName=D11 Pin=S?-4
+Removed Pin From Net: NetName=MOSI Pin=S?-5
+Removed Pin From Net: NetName=RX Pin=S?-6
+Removed Pin From Net: NetName=BATTERIE Pin=SW1-1
+Removed Pin From Net: NetName=VCC Pin=SW1-2
+Change Component DesignItemId : Designator=SW1 Old DesignItemId=SW_SPDT New DesignItemId=SW_DPDT
+Change Component Footprint: Designator=SW1 Old Footprint=1K2_V New Footprint=dpdt_bascule
+Change Component Comment : Designator=SW1 Old Comment=SW_SPDT New Comment=SW_DPDT
+Change Component Designator: OldDesignator=B NewDesignator=Batterie
+Added Component: Designator=SW2(1K2_V)
+Added Pin To Net: NetName=D11 Pin=SW1-1
+Added Pin To Net: NetName=RX Pin=SW1-2
+Added Pin To Net: NetName=MOSI Pin=SW1-3
+Added Pin To Net: NetName=D10 Pin=SW1-4
+Added Pin To Net: NetName=TX Pin=SW1-5
+Added Pin To Net: NetName=CSN Pin=SW1-6
+Added Pin To Net: NetName=BATTERIE Pin=SW1-1
+Added Pin To Net: NetName=VCC Pin=SW1-2
+Added Member To Class: ClassName=manette_temp Member=Component SW2 SW_SPDT
+Added Room: Name=manette_temp

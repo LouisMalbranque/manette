@@ -1,0 +1,4 @@
+Removed Member From Class: ClassName=manette_temp Member=*
+Change Component Designator: OldDesignator=U? NewDesignator=ATMEGA
+Added Pin To Net: NetName=AREF Pin=ATMEGA-21
+Added Net: Name=AREF

@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=ATMEGA NewDesignator=U?
+Added Component: Designator=*(Connecteur Power)
+Added Member To Class: ClassName=manette_temp Member=Component * Connecteur Power
+Added Room: Name=manette_temp

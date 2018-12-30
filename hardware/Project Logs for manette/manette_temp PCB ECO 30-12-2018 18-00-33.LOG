@@ -1,0 +1,72 @@
+Added Component: Designator=HC05(HC05)
+Added Component: Designator=JD(Joystick2axes)
+Added Component: Designator=JG(Joystick2axes)
+Added Component: Designator=NRF(NRF24)
+Added Component: Designator=S?(DPDT-6)
+Added Component: Designator=U?(DIP28_300)
+Added Pin To Net: NetName=3.3V Pin=NRF-2
+Added Net: Name=3.3V
+Added Pin To Net: NetName=5V Pin=HC05-5
+Added Pin To Net: NetName=5V Pin=JD-1
+Added Pin To Net: NetName=5V Pin=JD-1
+Added Pin To Net: NetName=5V Pin=JG-1
+Added Pin To Net: NetName=5V Pin=JG-1
+Added Pin To Net: NetName=5V Pin=U?-7
+Added Pin To Net: NetName=5V Pin=U?-20
+Added Net: Name=5V
+Added Pin To Net: NetName=BC Pin=U?-6
+Added Net: Name=BC
+Added Pin To Net: NetName=CE Pin=NRF-3
+Added Pin To Net: NetName=CE Pin=U?-15
+Added Net: Name=CE
+Added Pin To Net: NetName=CSN Pin=NRF-4
+Added Pin To Net: NetName=CSN Pin=S?-2
+Added Net: Name=CSN
+Added Pin To Net: NetName=D10 Pin=S?-1
+Added Pin To Net: NetName=D10 Pin=U?-16
+Added Net: Name=D10
+Added Pin To Net: NetName=D11 Pin=S?-4
+Added Pin To Net: NetName=D11 Pin=U?-17
+Added Net: Name=D11
+Added Pin To Net: NetName=GND Pin=HC05-4
+Added Pin To Net: NetName=GND Pin=JD-4
+Added Pin To Net: NetName=GND Pin=JD-4
+Added Pin To Net: NetName=GND Pin=JG-4
+Added Pin To Net: NetName=GND Pin=JG-4
+Added Pin To Net: NetName=GND Pin=NRF-1
+Added Pin To Net: NetName=GND Pin=U?-8
+Added Pin To Net: NetName=GND Pin=U?-22
+Added Net: Name=GND
+Added Pin To Net: NetName=IRQ Pin=NRF-8
+Added Pin To Net: NetName=IRQ Pin=U?-14
+Added Net: Name=IRQ
+Added Pin To Net: NetName=JDX Pin=JD-2
+Added Pin To Net: NetName=JDX Pin=U?-27
+Added Net: Name=JDX
+Added Pin To Net: NetName=JDY Pin=JD-3
+Added Pin To Net: NetName=JDY Pin=U?-26
+Added Net: Name=JDY
+Added Pin To Net: NetName=JGX Pin=JG-2
+Added Pin To Net: NetName=JGX Pin=U?-1
+Added Net: Name=JGX
+Added Pin To Net: NetName=JGY Pin=JG-3
+Added Pin To Net: NetName=JGY Pin=U?-28
+Added Net: Name=JGY
+Added Pin To Net: NetName=MISO Pin=NRF-7
+Added Pin To Net: NetName=MISO Pin=U?-18
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=NRF-6
+Added Pin To Net: NetName=MOSI Pin=S?-5
+Added Net: Name=MOSI
+Added Pin To Net: NetName=RX Pin=HC05-2
+Added Pin To Net: NetName=RX Pin=S?-6
+Added Net: Name=RX
+Added Pin To Net: NetName=SCK Pin=NRF-5
+Added Net: Name=SCK
+Added Pin To Net: NetName=SDK Pin=U?-19
+Added Net: Name=SDK
+Added Pin To Net: NetName=TX Pin=HC05-3
+Added Pin To Net: NetName=TX Pin=S?-3
+Added Net: Name=TX
+Added Class: Name=manette_temp
+Added Room: Name=manette_temp

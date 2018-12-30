@@ -1,0 +1,110 @@
+Removed Pin From Net: NetName=BATTERIE Pin=SW1-1
+Removed Pin From Net: NetName=VCC Pin=SW1-2
+Removed Member From Class: ClassName=manette_temp Member=SW2
+Added Component: Designator=LDC(LED0805)
+Added Component: Designator=LDL1(LED0805)
+Added Component: Designator=LDL2(LED0805)
+Added Component: Designator=LDR1(LED0805)
+Added Component: Designator=LDR2(LED0805)
+Added Component: Designator=R1(0805)
+Added Component: Designator=R2(0805)
+Added Component: Designator=R3(0805)
+Added Component: Designator=R4(0805)
+Added Component: Designator=R5(0805)
+Added Component: Designator=R6(0805)
+Added Component: Designator=R7(0805)
+Added Component: Designator=R8(0805)
+Added Component: Designator=R9(0805)
+Added Component: Designator=R10(0805)
+Added Component: Designator=SC(SPST-2)
+Added Component: Designator=SL1(SPST-2)
+Added Component: Designator=SL2(SPST-2)
+Added Component: Designator=SR1(SPST-2)
+Added Component: Designator=SR2(SPST-2)
+Added Component: Designator=SW?(1K2_V)
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R4-2
+Added Pin To Net: NetName=GND Pin=R5-2
+Added Pin To Net: NetName=GND Pin=R6-2
+Added Pin To Net: NetName=GND Pin=R7-2
+Added Pin To Net: NetName=GND Pin=R8-2
+Added Pin To Net: NetName=GND Pin=R9-2
+Added Pin To Net: NetName=GND Pin=R10-2
+Added Pin To Net: NetName=VCC Pin=SC-1
+Added Pin To Net: NetName=VCC Pin=SL1-1
+Added Pin To Net: NetName=VCC Pin=SL2-1
+Added Pin To Net: NetName=VCC Pin=SR1-1
+Added Pin To Net: NetName=VCC Pin=SR2-1
+Added Pin To Net: NetName=D11 Pin=SW1-1
+Added Pin To Net: NetName=RX Pin=SW1-2
+Added Pin To Net: NetName=BATTERIE Pin=SW1-1
+Added Pin To Net: NetName=VCC Pin=SW1-2
+Added Pin To Net: NetName=NetLDC_K Pin=LDC-K
+Added Pin To Net: NetName=NetLDC_K Pin=R10-1
+Added Net: Name=NetLDC_K
+Added Pin To Net: NetName=NetLDL1_K Pin=LDL1-K
+Added Pin To Net: NetName=NetLDL1_K Pin=R8-1
+Added Net: Name=NetLDL1_K
+Added Pin To Net: NetName=NetLDL2_K Pin=LDL2-K
+Added Pin To Net: NetName=NetLDL2_K Pin=R9-1
+Added Net: Name=NetLDL2_K
+Added Pin To Net: NetName=NetLDR1_K Pin=LDR1-K
+Added Pin To Net: NetName=NetLDR1_K Pin=R6-1
+Added Net: Name=NetLDR1_K
+Added Pin To Net: NetName=NetLDR2_K Pin=LDR2-K
+Added Pin To Net: NetName=NetLDR2_K Pin=R7-1
+Added Net: Name=NetLDR2_K
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=SR1-2
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=SR2-2
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=SL1-2
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=SL2-2
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=SC-2
+Added Net: Name=NetR5_1
+Added Pin To Net: NetName=SC Pin=ATMEGA-6
+Added Pin To Net: NetName=SC Pin=LDC-A
+Added Net: Name=SC
+Added Pin To Net: NetName=SL1 Pin=ATMEGA-4
+Added Pin To Net: NetName=SL1 Pin=LDL1-A
+Added Net: Name=SL1
+Added Pin To Net: NetName=SL2 Pin=ATMEGA-5
+Added Pin To Net: NetName=SL2 Pin=LDL2-A
+Added Net: Name=SL2
+Added Pin To Net: NetName=SR1 Pin=ATMEGA-2
+Added Pin To Net: NetName=SR1 Pin=LDR1-A
+Added Net: Name=SR1
+Added Pin To Net: NetName=SR2 Pin=ATMEGA-3
+Added Pin To Net: NetName=SR2 Pin=LDR2-A
+Added Net: Name=SR2
+Added Member To Class: ClassName=manette_temp Member=Component LDC comment
+Added Member To Class: ClassName=manette_temp Member=Component LDL1 comment
+Added Member To Class: ClassName=manette_temp Member=Component LDL2 comment
+Added Member To Class: ClassName=manette_temp Member=Component LDR1 comment
+Added Member To Class: ClassName=manette_temp Member=Component LDR2 comment
+Added Member To Class: ClassName=manette_temp Member=Component R1 RES
+Added Member To Class: ClassName=manette_temp Member=Component R2 RES
+Added Member To Class: ClassName=manette_temp Member=Component R3 RES
+Added Member To Class: ClassName=manette_temp Member=Component R4 RES
+Added Member To Class: ClassName=manette_temp Member=Component R5 RES
+Added Member To Class: ClassName=manette_temp Member=Component R6 RES
+Added Member To Class: ClassName=manette_temp Member=Component R7 RES
+Added Member To Class: ClassName=manette_temp Member=Component R8 RES
+Added Member To Class: ClassName=manette_temp Member=Component R9 RES
+Added Member To Class: ClassName=manette_temp Member=Component R10 RES
+Added Member To Class: ClassName=manette_temp Member=Component SC SW-PB
+Added Member To Class: ClassName=manette_temp Member=Component SL1 SW-PB
+Added Member To Class: ClassName=manette_temp Member=Component SL2 SW-PB
+Added Member To Class: ClassName=manette_temp Member=Component SR1 SW-PB
+Added Member To Class: ClassName=manette_temp Member=Component SR2 SW-PB
+Added Member To Class: ClassName=manette_temp Member=Component SW? SW_SPDT
+Added Room: Name=manette_temp
