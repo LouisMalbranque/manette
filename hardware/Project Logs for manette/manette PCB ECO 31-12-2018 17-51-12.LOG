@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=D11 Pin=SW1-1
+Removed Pin From Net: NetName=RX Pin=SW1-2
+Removed Pin From Net: NetName=MOSI Pin=SW1-3
+Removed Pin From Net: NetName=D10 Pin=SW1-4
+Removed Pin From Net: NetName=TX Pin=SW1-5
+Removed Pin From Net: NetName=CSN Pin=SW1-6
+Change Component DesignItemId : Designator=SW1 Old DesignItemId=SW_DPDT New DesignItemId=Switch 4PDT
+Change Component Footprint: Designator=SW1 Old Footprint=dpdt_bascule New Footprint=4PDT Breadboard
+Change Component Comment : Designator=SW1 Old Comment=SW_DPDT New Comment=Switch 4PDT
+Added Component: Designator=LDBT(LED0805)
+Added Component: Designator=LDNRF(LED0805)
+Added Component: Designator=R15(0805)
+Added Component: Designator=R16(0805)
+Added Component: Designator=R17(0805)
+Added Pin To Net: NetName=5V Pin=LDNRF-A
+Added Pin To Net: NetName=GND Pin=R15-2
+Added Pin To Net: NetName=GND Pin=R16-2
+Added Pin To Net: NetName=CSN Pin=SW1-1
+Added Pin To Net: NetName=D10 Pin=SW1-2
+Added Pin To Net: NetName=TX Pin=SW1-3
+Added Pin To Net: NetName=MOSI Pin=SW1-4
+Added Pin To Net: NetName=D11 Pin=SW1-5
+Added Pin To Net: NetName=RX Pin=SW1-6
+Added Pin To Net: NetName=VCC Pin=SW1-8
+Added Pin To Net: NetName=MODE Pin=ATMEGA-23
+Added Pin To Net: NetName=MODE Pin=LDBT-A
+Added Pin To Net: NetName=MODE Pin=R15-1
+Added Pin To Net: NetName=MODE Pin=R17-2
+Added Pin To Net: NetName=MODE Pin=SW1-9
+Added Net: Name=MODE
+Added Pin To Net: NetName=NetLDBT_K Pin=LDBT-K
+Added Pin To Net: NetName=NetLDBT_K Pin=R16-1
+Added Net: Name=NetLDBT_K
+Added Pin To Net: NetName=NetLDNRF_K Pin=LDNRF-K
+Added Pin To Net: NetName=NetLDNRF_K Pin=R17-1
+Added Net: Name=NetLDNRF_K
+Change Class Name : Old Net Name=manette_temp New Net Name=manette
+Added Member To Class: ClassName=manette Member=Component LDBT comment
+Added Member To Class: ClassName=manette Member=Component LDNRF comment
+Added Member To Class: ClassName=manette Member=Component R15 RES
+Added Member To Class: ClassName=manette Member=Component R16 RES
+Added Member To Class: ClassName=manette Member=Component R17 RES
+Added Room: Name=manette

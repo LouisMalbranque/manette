@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=CSN Pin=SW1-1
+Removed Pin From Net: NetName=D10 Pin=SW1-2
+Removed Pin From Net: NetName=TX Pin=SW1-3
+Change Component Designator: OldDesignator=LDBT NewDesignator=LDNRF
+Change Component Designator: OldDesignator=LDNRF NewDesignator=LDBT
+Added Pin To Net: NetName=TX Pin=SW1-10
+Added Pin To Net: NetName=D10 Pin=SW1-11
+Added Pin To Net: NetName=CSN Pin=SW1-12
+Change Net Name : Old Net Name=NetLDBT_K New Net Name=NetLDNRF_K
+Change Net Name : Old Net Name=NetLDNRF_K New Net Name=NetLDBT_K
+Added Room: Name=manette

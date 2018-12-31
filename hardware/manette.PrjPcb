@@ -37,7 +37,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=manette_temp.SchDoc
+DocumentPath=manette.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -54,7 +54,7 @@ GenerateClassCluster=0
 DocumentUniqueId=MKGIMDSX
 
 [Document2]
-DocumentPath=Lib\HC05\HC05.SchLib
+DocumentPath=manette.PCBDOC
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -68,7 +68,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=NLPCRHPM
+DocumentUniqueId=UJOOYDLU
 
 [Document3]
 DocumentPath=Lib\HC05\HC05.PcbLib
@@ -85,10 +85,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=YDCNPUEE
+DocumentUniqueId=LCJVTUKR
 
 [Document4]
-DocumentPath=manette_temp.PCBDOC
+DocumentPath=Lib\HC05\HC05.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -102,7 +102,41 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=UJOOYDLU
+DocumentUniqueId=ENMEGABB
+
+[Document5]
+DocumentPath=Lib\Interrupteur 4PDT\4PDT Breadboard.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JSVGAFMB
+
+[Document6]
+DocumentPath=Lib\Interrupteur 4PDT\Switch 4PDT.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BTYUGDBA
 
 [Configuration1]
 Name=Default Configuration
