@@ -1,0 +1,28 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [manette.PrjPcb]
+   Generated File[manette.GTL]
+   Generated File[manette.GBL]
+   Generated File[manette.GPB]
+   Generated File[manette.GPT]
+   Generated File[manette.GTO]
+   Generated File[manette.GTP]
+   Generated File[manette.GTS]
+   Generated File[manette.GBS]
+   Generated File[manette.GBP]
+   Generated File[manette.GBO]
+   Generated File[manette.GKO]
+   Generated File[manette.GM1]
+   Generated File[manette.GM2]
+   Generated File[manette.1]
+   Generated File[manette.GML]
+   Generated File[manette.GD1]
+   Generated File[manette.GG1]
+   Generated File[manette.EXTREP]
+   Generated File[manette.REP]
+
+
+Files Generated   : 19
+Documents Printed : 0
+
+Finished Output Generation At 16:58:10 On 02/01/2019
